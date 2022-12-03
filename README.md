@@ -18,7 +18,7 @@ Create a UML diagram of the authentication system on a whiteboard before you sta
 
 ### Links and Resources
 
-- [GitHub Link](https://github.com/timothee2022/bearer-auth)
+* [GitHub Link](https://github.com/timothee2022/bearer-auth)
 
 #### `.env` requirements
 
@@ -41,4 +41,3 @@ DATABASE_URL=postgres://localhost:5432/api-app?sslmode=disable
 
 * I have set up testing for each files to make sure they are all working as expected.
 * Run the `npm test {name of the file you are testing}`
-
